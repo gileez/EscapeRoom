@@ -4,3 +4,4 @@ Saved/*
 DerivedDataCache/*
 Intermediate/*
 Content/StarterContent/*
+*.db
